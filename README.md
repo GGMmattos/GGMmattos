@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Suporte Tecnico na Elotech
 - 🌱 Cursando Infomática - UEM
-- ⚡ Fun fact: Gosto de correr, ler e ver séries
+- ⚡ Fun fact: Gosto de correr, ler e ver séries/Filmes baseados em HQ rs
 #
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="GGM-Python" height="40" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="GGM-C" height="40" width="100" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="GGM-Colab" height="40" width="100" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img align="center" alt="GGM-Mysql" height="40" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
    ##
