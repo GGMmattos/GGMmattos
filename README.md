@@ -36,6 +36,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ggm_matos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-matos27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-   ![Snake animation](https://github.com/GGMmattos/GGMmattos/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
