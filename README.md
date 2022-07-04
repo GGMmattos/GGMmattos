@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Suporte Tecnico na Elotech
 - 🌱 Cursando Infomática - UEM
-- ⚡ Fun fact: Gosto de correr, ler e ver séries/Filmes baseados em HQ rs
+- ⚡ Fun fact: Gosto de correr, ler e ver séries/filmes baseados em HQ rs
 #
 
 <div align="center">
