@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Eu sou o Gabriel Matos 👋
 
-- 🔭 Atualmente trabalho como Suporte Tecnico na Elotech
+- 🔭 Atualmente trabalho como Suporte Técnico na Elotech
 - 🌱 Cursando Infomática - UEM
 - ⚡ Fun fact: Gosto de correr, ler e ver séries/filmes baseados em HQ rs
 #
