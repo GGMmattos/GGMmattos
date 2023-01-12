@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Gabriel Matos 👋
+### Olá, tudo bem?   Eu sou o Gabriel Matos 👋
 
 - 🔭 Atualmente trabalho como Suporte Técnico na Elotech
 - 🌱 Cursando Infomática - UEM
