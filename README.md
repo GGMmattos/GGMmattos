@@ -1,7 +1,7 @@
 ### Olá, tudo bem?   Eu sou o Gabriel Matos 👋
 
 - 🌱 Cursando Infomática - UEM
-- ⚡ Fun fact: Gosto de correr, ler e ver séries/filmes baseados em HQ rsrs
+- ⚡ Fun fact: Gosto de correr e ler
 #
 
 <div align="center">
