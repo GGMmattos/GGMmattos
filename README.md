@@ -2,6 +2,7 @@
 
 - 🌱 Cursando Infomática - UEM
 - ⚡ Fun fact: Gosto de correr e ler
+- 💼 Analista de BI
 #
 
 <div align="center">
