@@ -1,8 +1,7 @@
 ### Olá, tudo bem?   Eu sou o Gabriel Matos 👋
 
-- 🌱 Cursando Infomática - UEM
-- ⚡ Fun fact: Gosto de correr e ler
-- 💼 Analista de BI
+- 🌱 Mestrando em Ciência da Computação - UEM
+- 🎓Bacharel em Infomática - UEM 
 #
 
 <div align="center">
